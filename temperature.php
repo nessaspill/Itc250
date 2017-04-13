@@ -56,3 +56,4 @@ if (isset($temperature1))
                 break;
     }
 }
+
