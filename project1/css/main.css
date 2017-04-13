@@ -1,0 +1,35 @@
+ html, body{
+    line-height: 2em;
+    background-color: black; 
+}
+main{
+    width: 80%;
+    margin: 0 auto;
+    background-color: burlywood;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+h1{
+    text-align: center;
+}
+form{
+    width: 60%;
+    margin: 0 auto;
+}
+table {
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+}
+.data{
+    margin: 0 auto;
+}
+.midle{
+    width: 50px;
+    text-align: center;
+}
+#result{
+    color: firebrick;
+    font-weight: bold;
+}           
